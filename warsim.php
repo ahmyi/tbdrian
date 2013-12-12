@@ -97,7 +97,7 @@ if(isset($_POST['result'])) {
             //$Katalife=round($_POST['result'][4]-($_POST['result'][4]*$_POST['result'][1]));
             //$totallvl = round($form->getValue('kata')-($form->getValue('kata') * $demolish));
             $totallvl = round(sqrt(pow(($form->getValue('kata')+0.5),2)-($_POST['result'][4]*8)));
-            echo "<p>ساختمان از سطح <b>".$form->getValue('kata')."</b> به سطح <b>".$totallvl."</b> آسیب می بیند.</p>";
+            echo "<p>Tahap Bangunan <b>".$form->getValue('kata')."</b> Permukaan <b>".$totallvl."</b> Kerosakan terhadapد.</p>";
         }
     }
 }
