@@ -22,7 +22,7 @@ class Automation {
             case 4: $build = "Ladang"; break;
             case 5: $build = "Kilang Papan"; break;
             case 6: $build = "Kilang Bata"; break;
-            case 7: $build = "Faundri Besi"; break;
+            case 7: $build = "Kilang Tuangan Besi"; break;
             case 8: $build = "Bijian"; break;
             case 9: $build = "kilang roti"; break;
             case 10: $build = "Gudang"; break;
@@ -50,9 +50,9 @@ class Automation {
             case 32: $build = "Tembok"; break;
             case 33: $build = "Pagar Kubu"; break;
             case 34: $build = "Kedai Tukang Batu"; break;
-            case 35: $build = "Kilang Bir"; break;
+            case 35: $build = "Kilang Arak"; break;
             case 36: $build = "Trapper"; break;
-            case 37: $build = "Hero's Mansion"; break;
+            case 37: $build = "Rumah Agam Pewira"; break;
             case 38: $build = "Gudang Besar"; break;
             case 39: $build = "Jelapang Besar"; break;
             case 40: $build = "Keajaiban Dunia"; break;
